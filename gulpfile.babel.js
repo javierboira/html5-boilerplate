@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-import gulp from 'gulp';
+import gulp from 'gulp';xbcvb
 
 // Load all gulp plugins automatically
 // and attach them to the `plugins` object
